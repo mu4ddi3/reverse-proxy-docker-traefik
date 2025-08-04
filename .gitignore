@@ -1,5 +1,6 @@
 certificates/*
 .idea
-docker-compose.yml
+compose.yaml
+compose.*.yaml
 configs
 .env
